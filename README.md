@@ -2,8 +2,8 @@
 
 Static site and interactive mockups for **PitchPro Pathways** and the Motion Intelligence platform, published with GitHub Pages.
 
-**Live:** https://davidranderson1.github.io/pitchpro-pathways/
-**All pages index:** https://davidranderson1.github.io/pitchpro-pathways/hub.html
+**Live:** https://pitchpropathways.com/
+**All pages index:** https://pitchpropathways.com/hub.html
 
 Every page also carries a floating **◈ All pages** button in the bottom-right corner that opens the same index without leaving the page.
 
